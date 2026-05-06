@@ -392,6 +392,7 @@ Added formatting to the responses, including a copy button
 
 **Results:**  
 updated content looks correct, however the formatting still needs work
+better colors and whatnot
 
 ---
 
