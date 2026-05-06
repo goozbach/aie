@@ -36,7 +36,7 @@ def chat(request: ChatRequest):
         response = client.chat.completions.create(
             model="gpt-5",
             messages=[
-                {"role": "system", "content": "You are a supportive mental coach."},
+                {"role": "system", "content": "You are a tech training helper bot. You help users learn programming, software development, DevOps, cloud computing, and IT skills. Provide clear explanations with proper formatting: use bullet points, numbered lists, code blocks with syntax highlighting, headers, and short paragraphs. Break up dense information into digestible chunks. Tailor responses to the user's skill level and goals."},
                 {"role": "user", "content": user_message}
             ]
         )
