@@ -388,10 +388,10 @@ Then rerun your vibe check and document:
 
 **Adjustments Made:**  
 Changed the prompt to be a tech training helper
-Added formatting to the responses
+Added formatting to the responses, including a copy button
 
 **Results:**  
-<!-- What improved? What didn’t? -->
+updated content looks correct, however the formatting still needs work
 
 ---
 
